@@ -9,3 +9,5 @@ while True:
     else:
         break
 print("1到"+(num)+"的和是"+(answer))
+
+
