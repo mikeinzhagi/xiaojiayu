@@ -12,4 +12,5 @@ for i in range(100,1000):
     y = (i - 100*x) // 10
     z = i - 100*x - 10*y
     if x ** 3 + y ** 3 + z ** 3 == i:
-        print(i, end=' ')
+        print(i, end='\n')
+

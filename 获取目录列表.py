@@ -6,6 +6,6 @@
 
 import os
 # 扫描根目录下文件和文件夹名
-with os.scandir(r'e:\python练习') as entries:
+with os.scandir(r'e:\xiaojiayu') as entries:
     for entry in entries:
         print(entry.name)

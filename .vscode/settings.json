@@ -1,0 +1,9 @@
+{
+    "python.linting.enabled": true,
+    "python.linting.pylintEnabled": true,
+    "python.linting.pycodestyleEnabled": true,
+    "python.linting.flake8Enabled": true,
+    "python.pythonPath": "C:\\Users\\milan\\AppData\\Local\\Programs\\Python\\Python39\\python.exe"
+     "code-runner.executorMap": {
+     "python": "set PYTHONIOENCODING=utf8 && C:\\Users\\milan\\AppData\\Local\\Programs\\Python\\Python39\\python.exe"}
+}

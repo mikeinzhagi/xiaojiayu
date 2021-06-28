@@ -17,3 +17,5 @@ for i in range(num + 1):
 print("1到", num, "的和是", sum)
 
 
+
+
